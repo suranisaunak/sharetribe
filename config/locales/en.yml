@@ -407,8 +407,6 @@ en:
           confirm_modify: 'Are you sure you want to modify/delete this review? Once you edit/delete a review it is not possible to recover previous removed data.'
           deleting_info: 'Deleting a review allows its author to leave another one for the same transaction.'
           blocking_info: 'Blocking the review after deletion prevents its author from leaving another one for the same transaction.'
-       user_fields:
-        user_fields: "User fields"
       listings:
         listings: Listings
         headers:
