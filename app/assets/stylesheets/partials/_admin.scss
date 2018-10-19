@@ -48,6 +48,14 @@ select#locale-selection {
   .info-thumbnail {
     float: left;
     margin-right: 1.5em;
+    &> i {
+      float: left;
+    }
+    .thumbnail {
+      float: left;
+      margin-left: 5px;
+      color: gray;
+    }
   }
   &.filename-container {
     margin-top: 0;
